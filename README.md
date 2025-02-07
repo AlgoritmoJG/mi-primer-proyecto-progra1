@@ -6,7 +6,5 @@ Integrantes del grupo
 Nery Daniel Vásquez y Vásquez 
 Cristian Oliver Baten Itzep
 Jostyn Manrrique Godoy Chinchilla
-Holaaaaaaaaaaa 
-xdd
 
 añadí nombres de integrantes 
