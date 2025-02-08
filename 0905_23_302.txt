@@ -1,0 +1,25 @@
+i. ¿Qué aprendiste sobre el flujo de trabajo con Git y GitHub?
+Aprendí que el flujo de trabajo se basa en gestionar cambios de manera colaborativa y organizada. Algunos conceptos clave incluyen:
+•	Ramas (branches): Crear ramas para desarrollar nuevas funcionalidades sin afectar la versión principal (main o master).
+•	Commits: Guardar cambios con mensajes descriptivos para rastrear el progreso.
+•	Sincronización remota: Usar git push para subir cambios a GitHub y git pull para actualizar el repositorio local.
+•	Pull Requests (PRs): Enviar solicitudes para revisar y fusionar código en la rama principal, facilitando la revisión por pares.
+•	Resolución de conflictos: Manejar diferencias entre versiones mediante herramientas como git merge o editores de código.
+•	Clonar repositorios: Trabajar en proyectos existentes con git clone.
+También exploré flujos comunes como GitHub Flow, que prioriza PRs rápidas y despliegues frecuentes.
+________________________________________
+ii. ¿Cómo fue la experiencia de trabajar en parejas? ¿Encontraste algún conflicto? ¿Cómo lo resolviste?
+Trabajar en parejas fue enriquecedor, ya que permitió dividir tareas y combinar habilidades. Sin embargo, surgieron conflictos al modificar los mismos archivos o al tener enfoques distintos para una solución. Por ejemplo, una vez ambos editamos un módulo sin avisarnos, generando un merge conflict. Para resolverlo:
+1.	Comunicación: Acordamos dividir tareas específicas y avisar antes de editar archivos compartidos.
+2.	Branches separados: Cada uno trabajó en una rama distinta para minimizar choques.
+3.	Resolución manual: Al ocurrir un conflicto, revisamos juntos las diferencias (git diff), discutimos qué cambios priorizar y ajustamos el código.
+La clave fue mantener diálogo constante y usar herramientas de Git para organizarnos.
+________________________________________
+iii. ¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+Las ventajas principales son:
+•	Control de versiones: Historial completo de cambios, permitiendo revertir a estados anteriores si hay errores.
+•	Colaboración eficiente: Múltiples personas pueden trabajar simultáneamente sin sobrescribir trabajo ajeno.
+•	Experimentación segura: Ramas aisladas para probar ideas sin riesgo al código principal.
+•	Transparencia y responsabilidad: Cada commit registra quién hizo qué, facilitando la trazabilidad.
+•	Integración con herramientas: GitHub permite PRs, issues, CI/CD, y gestión de proyectos en un solo lugar.
+•	Respaldo remoto: El código está almacenado en la nube, evitando pérdidas por fallos locales.

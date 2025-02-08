@@ -1,0 +1,14 @@
+i. Sobre el flujo de trabajo con Git y GitHub: Git y GitHub proporcionan un sistema robusto para el control de versiones y la colaboración. El flujo típico incluye crear ramas (branches) para nuevas funcionalidades, realizar commits frecuentes con mensajes descriptivos, hacer push de los cambios al repositorio remoto, y utilizar pull requests para revisar e integrar código. Es fundamental mantener el repositorio local actualizado haciendo pull regularmente del repositorio remoto.
+ii. Sobre el trabajo en parejas: El trabajo en parejas suele ser muy enriquecedor aunque puede presentar desafíos. Los conflictos más comunes ocurren cuando dos personas modifican las mismas líneas de código simultáneamente. La resolución típicamente implica:
+•	Comunicación clara entre los miembros del equipo sobre qué está trabajando cada uno
+•	Uso de ramas separadas para diferentes funcionalidades
+•	Resolución manual de conflictos cuando Git no puede hacer el merge automáticamente
+•	Acordar convenciones de código y estructura del proyecto desde el inicio
+iii. Ventajas de usar Git en proyectos de programación:
+•	Control de versiones que permite rastrear y revertir cambios
+•	Facilita la colaboración entre múltiples desarrolladores
+•	Permite trabajar en diferentes funcionalidades de forma paralela
+•	Mantiene un historial completo del proyecto
+•	Facilita la recuperación ante errores o pérdidas de código
+•	Permite experimentar con nuevas ideas en ramas separadas sin afectar el código principal
+•	Mejora la organización del proyecto y la documentación a través de commits descriptivos

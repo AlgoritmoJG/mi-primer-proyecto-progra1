@@ -1,0 +1,11 @@
+i. ¿Qué aprendiste sobre el uso de trabajo con Git y GitHub?
+Aprendí que Git es un sistema de control de versiones que permite llevar un historial de cambios en los archivos, facilitando la colaboración en proyectos de programación. Con GitHub, es posible alojar repositorios en la nube y trabajar en equipo de manera eficiente mediante pull requests, branches y merge conflicts. También entendí la importancia de realizar commits con mensajes claros y descriptivos, así como la utilidad de los issues y milestones para gestionar el desarrollo del proyecto.
+ii. ¿Cómo fue la experiencia de trabajar en parejas? ¿Encontraste algún conflicto? ¿Cómo lo resolviste?
+Trabajar en pareja fue una experiencia enriquecedora porque permitió dividir tareas y aprender del otro. Sin embargo, surgieron algunos conflictos, especialmente cuando ambos hicimos cambios en el mismo archivo, lo que generó conflictos de fusión (merge conflicts). Para resolverlos, analizamos las diferencias con herramientas como git diff y discutimos cuál era la mejor versión del código antes de hacer la fusión. También mejoramos la comunicación estableciendo reglas sobre cuándo y cómo hacer pull requests.
+iii. ¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+Git tiene varias ventajas clave en proyectos de programación:
+1.	Control de versiones: Permite revertir cambios y acceder a versiones anteriores del código sin perder información.
+2.	Colaboración eficiente: Varios desarrolladores pueden trabajar en el mismo proyecto sin sobrescribir el trabajo del otro.
+3.	Seguridad y respaldo: GitHub almacena el código en la nube, lo que evita pérdidas en caso de fallos en la computadora local.
+4.	Trabajo en ramas (branches): Se pueden desarrollar nuevas funciones sin afectar el código principal hasta que estén listas.
+5.	Historial de cambios: Cada modificación queda documentada, lo que facilita la revisión y depuración del código.
